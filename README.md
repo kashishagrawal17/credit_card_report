@@ -1,4 +1,4 @@
-# Credit Card Report Dashboards
+# Credit Card Dashboards
 This project features two weekly Power BI dashboards: Credit Card Customer Report and Credit Card Transaction Report, both leveraging DAX queries to track and analyze credit card data.
 
 **Features:**                                                                                                                                                         
