@@ -2,7 +2,7 @@
 This project features two weekly Power BI dashboards: Credit Card Customer Report and Credit Card Transaction Report, both leveraging DAX queries to track and analyze credit card data.
 
 **Features:**
-Credit Card Customer Report: Analyzes customer demographics and key KPIs such as total revenue, transaction amounts, gender distribution, and more.
+Credit Card Customer Report: Analyzes customer demographics and key KPIs such as total revenue, transaction amounts, gender distribution, and more.                    
 Credit Card Transaction Report: Tracks transaction data and provides insights with KPIs like total transaction amounts, transaction frequency, and spending patterns.   
 
 **Key Metrics:**                                                                                                                                           
