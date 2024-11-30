@@ -6,15 +6,15 @@ This project features two weekly Power BI dashboards: Credit Card Customer Repor
 **Credit Card Transaction Report:** Tracks transaction data and provides insights with KPIs like total transaction amounts, transaction frequency, and spending patterns.   
 
 **Key Metrics:**                                                                                                                                           
-Total Revenue
-Transaction Amount
-Gender Distribution
-Transaction Frequency        
+Total Revenue                                                                                                                                                         
+Transaction Amount                                                                                                                                                    
+Gender Distribution                                                                                                                                                  
+Transaction Frequency                                                                                                                                                 
 
-**Getting Started:**
-Clone the repository.
-Open the Power BI file to explore and interact with the dashboards.        
+**Getting Started:**                                                                                                                                                  
+Clone the repository.                                                                                                                                               
+Open the Power BI file to explore and interact with the dashboards.                                                                                                
 
-**Prerequisites:**
-Power BI Desktop
+**Prerequisites:**                                                                                                                                                
+Power BI Desktop                                                                                                                                                 
 Basic understanding of DAX queries for customization
