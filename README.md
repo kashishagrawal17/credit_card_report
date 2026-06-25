@@ -1,3 +1,5 @@
+# Credit Card Analytics Dashboard (Power BI)
+
 **Project Overview**
 
 This project focuses on analyzing credit card customer demographics and transaction behavior using Power BI. Two interactive dashboards were developed to provide insights into customer segmentation and spending patterns, enabling better business decision-making.
